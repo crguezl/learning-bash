@@ -1,0 +1,1 @@
+var="abcde"; echo ${var/[ce]/12}
